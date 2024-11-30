@@ -20,6 +20,8 @@ I am a dedicated Computer Science Engineering student with a profound interest i
 ![JDBC](https://img.shields.io/badge/JDBC-0076A8?style=for-the-badge&logo=java&logoColor=white) 
 ![Java Applet](https://img.shields.io/badge/Java%20Applet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF8C00?style=for-the-badge&logo=xml&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00B140?style=for-the-badge&logo=python&logoColor=white)
+
 ## My projects
 Online bus Booking 
 ## Let's Connect

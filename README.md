@@ -21,6 +21,12 @@ I am a dedicated Computer Science Engineering student with a profound interest i
 ![Java Applet](https://img.shields.io/badge/Java%20Applet-007396?style=for-the-badge&logo=java&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF8C00?style=for-the-badge&logo=xml&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00B140?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ## My projects
 Online bus Booking 

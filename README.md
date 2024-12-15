@@ -1,6 +1,6 @@
 # Welcome Innovator/Engineer! Glad to Have You on My GitHub!
 ## About This Developer 
-I am a dedicated Computer Science Engineering student with a profound interest in developing innovative web solutions. I am focused on applying my technical expertise to address real-world challenges, while advancing my knowledge in full-stack development and contemporary web technologies. With a strong commitment to exploring various domains within Computer Science, I am dedicated to continuous learning and professional development.
+I am a dedicated Computer Science Engineering student with a deep interest in Python, Machine Learning, AI, Testing, AWS, and Web Development. I am passionate about applying my technical expertise to address real-world problems and build innovative solutions. My goal is to continue advancing my skills in these cutting-edge technologies while expanding my knowledge in web development. With a strong commitment to exploring various domains within Computer Science, I am dedicated to continuous learning, staying updated with industry trends, and pursuing professional growth.
 ## My expertise 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

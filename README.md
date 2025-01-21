@@ -33,5 +33,5 @@ I am a dedicated Computer Science Engineering student with a deep interest in Py
 Online bus Booking 
 ## Let's Connect
 I'm enthusiastic about working together and exploring new ventures. Please reach out if you'd like to connect:<br>
-• Email: krishkrishnavenkat@gmail.com<br>
+• Email: krishnanvenkatachalam.work@gmail.com<br>
 • LinkedIn:  https://www.linkedin.com/in/krishnan-v-13a6b6273

@@ -29,9 +29,7 @@ I am a dedicated Computer Science Engineering student with a deep interest in Py
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## My projects
-Online bus Booking 
 ## Let's Connect
 I'm enthusiastic about working together and exploring new ventures. Please reach out if you'd like to connect:<br>
 • Email: krishnanvenkatachalam.work@gmail.com<br>
-• LinkedIn:  https://www.linkedin.com/in/krishnan-v-13a6b6273
+• LinkedIn:  [https://www.linkedin.com/in/krishnan-v-13a6b6273](https://www.linkedin.com/in/krishnan0022/)

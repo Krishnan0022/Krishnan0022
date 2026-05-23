@@ -1,6 +1,6 @@
 # Welcome Innovator/Engineer! Glad to Have You on My GitHub!
 ## About This Developer 
-I am a dedicated Computer Science Engineering student with a deep interest in Python, Machine Learning, AI, Testing, AWS, and Web Development. I am passionate about applying my technical expertise to address real-world problems and build innovative solutions. My goal is to continue advancing my skills in these cutting-edge technologies while expanding my knowledge in Artificial Intellegence & Machine Learning. With a strong commitment to exploring various domains within Computer Science, I am dedicated to continuous learning, staying updated with industry trends, and pursuing professional growth.
+Passionate Computer Science Engineering student, researcher, and tech enthusiast focused on building impactful solutions through AI, Machine Learning, Blockchain, and Full-Stack Development. Skilled in Python, Java, AWS, Web Development, Testing, Deep Learning, Computer Vision, Data Structures & Algorithms, and Cloud Technologies. Experienced in developing research-driven projects in healthcare AI, structural health monitoring, computer vision, blockchain systems, and intelligent automation. Actively involved in academic research, technical writing, event management, and leadership roles while continuously exploring emerging technologies and industry trends. Dedicated to innovation, scalable system design, and solving real-world problems through technology.
 ## My expertise 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,8 +29,36 @@ I am a dedicated Computer Science Engineering student with a deep interest in Py
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8E44AD?style=for-the-badge&logo=opencv&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-FFA116?style=for-the-badge&logo=codeforces&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2C3E50?style=for-the-badge&logo=hackerrank&logoColor=green)
+![Research](https://img.shields.io/badge/Research-1E88E5?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-4A148C?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Publications](https://img.shields.io/badge/Publications-00897B?style=for-the-badge&logo=academia&logoColor=white)
 
 ## Let's Connect
 I'm enthusiastic about working together and exploring new ventures. Please reach out if you'd like to connect:<br>
 • Email: krishnanvenkatachalam.work@gmail.com<br>
-• LinkedIn:  [https://www.linkedin.com/in/krishnan-v-13a6b6273](https://www.linkedin.com/in/krishnan0022/)
+• LinkedIn:  [https://www.linkedin.com/in/krishnan0022/](https://www.linkedin.com/in/krishnan0022/)
